@@ -88,19 +88,6 @@ function Contact() {
                     <h2 style={{ color: "#1e1e1e" }}>Contact me</h2>
                     <p style={{ color: "#1e1e1e" }}>If you would like to connect, feel free to contact me!</p>
                     <ul className="contact-infos" style={{ color: "#1e1e1e" }}>
-                        {/*<li className="contact-details">*/}
-                        {/*    <i className="fa fa-phone"></i>*/}
-                        {/*          <span>  +8(Replace Me)</span>*/}
-                        {/*</li>*/}
-                        {/*<li className="contact-details">*/}
-                        {/*    <i className="fa fa-envelope"></i>*/}
-                        {/*    <span>  email@gmail.com</span>*/}
-                        {/*          */}
-                        {/*</li>*/}
-                        {/*<li className="contact-details">*/}
-                        {/*    <i className="fa fa-map-marker"></i>*/}
-                        {/*    <span>  Kamakura, Japan</span>*/}
-                        {/*</li>*/}
                     </ul>
                 </div>
                 <div className="contact-form">
