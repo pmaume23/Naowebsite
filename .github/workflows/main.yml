@@ -47,7 +47,7 @@ jobs:
         - name: Deploy to Netlify
           uses: netlify/actions/cli@master
           env:
-              NETLIFY_AUTH_TOKEN: ${{ secrets.PHYSIESEC01 }}
-              NETLIFY_SITE_ID: ${{ secrets.062399Nao }}
+              NETLIFY_AUTH_TOKEN: PHYSIESEC01
+              NETLIFY_SITE_ID: 062399Nao
           with:
               args: deploy --dir=build --prod
