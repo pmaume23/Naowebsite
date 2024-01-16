@@ -1,11 +1,9 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d5713c1e-fc6c-4891-9463-8e16fdeaa564/deploy-status)](https://app.netlify.com/sites/ilyasstrh/deploys)
 
 # React Portfolio
 
 A personal portfolio website made with ReactJS.
 
 ## Live version
-[https://ilyasstrh.netlify.app/](https://ilyasstrh.netlify.app/)
 
 ## Getting started
 
